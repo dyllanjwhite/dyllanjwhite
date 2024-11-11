@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dyllanjwhite
 - 👀 I’m interested in ... Python programming
-- 🌱 I’m currently learning ... C#
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... dyllanjwhite1996@gmail.com
 
