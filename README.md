@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dyllanjwhite
 - 👀 I’m interested in ... Python programming
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... Data visualization in R
+- 💞️ I’m looking to collaborate on ... Exoplanet detection systems
 - 📫 How to reach me ... dyllanjwhite1996@gmail.com
 
 <!---
